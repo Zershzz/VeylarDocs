@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: rocketwars.github.io
+  baseUrl: zershzz.github.io/VeylarDocs
   ignorePatterns:
     - private
     - templates
